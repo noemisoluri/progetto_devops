@@ -1,0 +1,27 @@
+ asyncio - 25/10/2026 17:04:01 - Using selector: SelectSelector
+ watchfiles.main - 25/10/2026 17:04:01 - 5 changes detected: {(<Change.added: 1>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__\\sentiment_analysis.cpython-312.pyc.2683736795456'), (<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\audit.log'), (<Change.added: 1>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__\\sentiment_analysis.cpython-312.pyc'), (<Change.added: 1>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__'), (<Change.deleted: 3>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__\\sentiment_analysis.cpython-312.pyc.2683736795456')}
+ sentiment_analysis - 25/10/2026 17:06:43 - Ricevuto il messaggio This product is amazing! I love it.
+ sentiment_analysis - 25/10/2026 17:06:43 - Errore generico: 'PredictBody' object has no attribute 'text'
+ watchfiles.main - 25/10/2026 17:06:59 - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\sentiment_analysis.py')}
+ sentiment_analysis - 25/10/2026 17:07:04 - Ricevuto il messaggio This product is amazing! I love it.
+ sentiment_analysis - 25/10/2026 17:07:04 - Errore generico: 'PredictBody' object has no attribute 'text'
+ watchfiles.main - 25/10/2026 17:07:05 - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\audit.log')}
+ asyncio - 25/10/2026 17:07:08 - Using selector: SelectSelector
+ watchfiles.main - 25/10/2026 17:07:08 - 6 changes detected: {(<Change.deleted: 3>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__\\sentiment_analysis.cpython-312.pyc'), (<Change.added: 1>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__\\sentiment_analysis.cpython-312.pyc.2208520841536'), (<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\audit.log'), (<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__'), (<Change.added: 1>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__\\sentiment_analysis.cpython-312.pyc'), (<Change.deleted: 3>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\__pycache__\\sentiment_analysis.cpython-312.pyc.2208520841536')}
+ sentiment_analysis - 25/10/2026 17:07:30 - Ricevuto il messaggio This product is amazing! I love it.
+ sentiment_analysis - 25/10/2026 17:07:30 - Sentiment identificato: positive - Confidence: 0.57
+ sentiment_analysis - 25/10/2026 17:07:52 - Ricevuto il messaggio This product is good!
+ sentiment_analysis - 25/10/2026 17:07:52 - Sentiment identificato: positive - Confidence: 0.68
+ sentiment_analysis - 25/10/2026 17:08:03 - Ricevuto il messaggio This product is very good!
+ sentiment_analysis - 25/10/2026 17:08:03 - Sentiment identificato: positive - Confidence: 0.8
+ sentiment_analysis - 25/10/2026 17:08:12 - Ricevuto il messaggio This product is amazing!
+ sentiment_analysis - 25/10/2026 17:08:12 - Sentiment identificato: positive - Confidence: 0.82
+ sentiment_analysis - 25/10/2026 17:08:18 - Ricevuto il messaggio This product is bad!
+ sentiment_analysis - 25/10/2026 17:08:18 - Sentiment identificato: positive - Confidence: 0.63
+ sentiment_analysis - 25/10/2026 17:08:40 - Ricevuto il messaggio This product is pessim!
+ sentiment_analysis - 25/10/2026 17:08:40 - Sentiment identificato: positive - Confidence: 0.71
+ sentiment_analysis - 25/10/2026 17:08:52 - Ricevuto il messaggio I hate This product!
+ sentiment_analysis - 25/10/2026 17:08:52 - Sentiment identificato: positive - Confidence: 0.66
+ watchfiles.main - 25/10/2026 17:12:41 - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\audit.log')}
+ watchfiles.main - 25/10/2026 17:12:42 - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\audit.log')}
+ watchfiles.main - 25/10/2026 17:12:43 - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noemi\\OneDrive\\Desktop\\progetto_devops\\audit.log')}
